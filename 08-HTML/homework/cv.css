@@ -1,0 +1,132 @@
+#tituloNombre{
+    color: black
+    
+ 
+}
+
+body {
+    background-image: url("https://fondosmil.com/fondo/9845.jpg");
+}
+
+.divDescripcionPersonal{
+    margin-left: auto;
+    background-color: rgb(175, 208, 214); 
+     border-style:ridge;
+    
+}
+#h2Dp {
+    background-color: rgb(9, 139, 190);
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    border-style:ridge;
+    margin-left: -20px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+
+.divEducacion {
+    margin-left: auto;
+    background-color: rgb(175, 208, 214); 
+    padding: 30px;
+    margin: 30px;
+    padding-top: 8px;
+    padding-bottom: 2px;
+    border-style:ridge;
+    margin-right:400px
+}
+#h2Edu {
+    background-color: rgb(9, 139, 190);
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+    border-style:ridge;
+    margin-left: -20px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+#nivelSecundarios{
+    margin-left: auto;
+    font-weight: 900;
+   
+}
+#nivelSuperiores{
+    margin-left: auto;
+    font-weight: 900;
+    
+}
+#liEnProcesohenry{
+    font-weight: 900;
+    color: rgba(153, 153, 22, 0.63);
+}
+.divExperienciaLaboral{
+    margin-left: auto;
+    background-color: rgb(175, 208, 214); 
+    padding: 30px;
+    margin: 30px;
+    padding-top: 8px;
+    padding-bottom: 2px;
+    border-style:ridge;
+    margin-right:400px
+}
+#h2Elab{
+    background-color: rgb(9, 139, 190);
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+    border-style:ridge;
+    margin-left: -20px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+#almed{
+    font-weight: 900;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+.divSkill{
+    margin-left: auto;
+    background-color: rgb(175, 208, 214); 
+    padding: 30px;
+    margin: 30px;
+    padding-top: 8px;
+    padding-bottom: 2px;
+    border-style:ridge;
+    margin-right:400px
+}
+#h2Skil{
+    background-color: rgb(9, 139, 190);
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    border-style:ridge;
+    margin-left: -20px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+.divHobbies{
+    margin-left: auto;
+    background-color: rgb(175, 208, 214); 
+    padding: 30px;
+    margin: 30px;
+    padding-top: 8px;
+    padding-bottom: 2px;
+    border-style:ridge;
+    margin-right:400px
+}
+#h2Hobb{
+    background-color: rgb(9, 139, 190);
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+    border-style:ridge;
+    margin-left: -20px;
+    margin-top: -30px;
+    margin-bottom: -30px;
+}
+.divOtraSeccion{
+    margin-left: auto;
+    background-color: rgb(175, 208, 214); 
+    border-style:ridge;
+}

@@ -1,0 +1,30 @@
+h1 {
+    color: blue;
+ }
+
+ img {
+    width: 350px;
+ }
+ #thirdDiv{
+ background-color: rgb(55, 58, 55);
+ line-height: 200px;   
+ width: 500px;
+ padding: 90px;
+ border: 6px solid blue
+ 
+ }
+ .divClass{
+    text-align: center;
+    
+ }
+ .divHijo1{
+    margin-left: auto;
+
+ }
+ #spanId{
+     font-size: 18px;
+     margin: 50px
+ }
+ body {
+    background-image: url("https://fondosmil.com/fondo/9845.jpg");
+}
